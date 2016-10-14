@@ -1,2 +1,0 @@
-# darx
-my personal site
